@@ -33,7 +33,7 @@ img {
     color: #fff;
 }
 .hero h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 .hero .scroll-down {
@@ -190,6 +190,6 @@ footer .map {
 /* Responsive */
 @media (min-width: 600px) {
     .hero h1 {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 }
